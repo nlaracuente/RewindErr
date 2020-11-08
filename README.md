@@ -1,7 +1,7 @@
 ![alt text][screenshot]
 
-# Rewind Er
-[Rewind Er Jam Entry Page]https://itch.io/jam/brackeys-4/rate/717813 is our entry for the Brackeys Jam 2020.2 where the theme was "*Rewind*"
+# Rewind Err
+[Rewind Err Jam Entry Page]https://itch.io/jam/brackeys-4/rate/717813 is our entry for the Brackeys Jam 2020.2 where the theme was "*Rewind*"
 
 ## Description
 You have to rewind Err to keep it functional and use Err's throwing ability to throw batteries at the power stations to keep the facility running.
@@ -19,4 +19,4 @@ You have to rewind Err to keep it functional and use Err's throwing ability to t
 - Photoshop
 - Audacity
 
-[screenshot]: https://img.itch.zone/aW1nLzQwMzM1MzMucG5n/original/b69WNS.png "Rewind Er"
+[screenshot]: https://img.itch.zone/aW1nLzQwMzM1MzMucG5n/original/b69WNS.png "Rewind Err"
